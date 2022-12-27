@@ -112,7 +112,7 @@ body{
   width: max-content;
   height: max-content;
  
- display: grid;
+ display: flex;
  text-align: center;
  justify-content: center;
  align-items: center;
